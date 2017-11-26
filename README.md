@@ -1,4 +1,8 @@
 # assembly language
+<p>微机原理课本上的一些例子和课后习题</p>
+<p>如何找到相应的例子？</p>
+<p>如emp439.asm为第四章例39</p>
 
-<p>here are some examples and some homeworks on teaching material</p>
-<h2>author yxj</h2>
+<p>例子是自己独立做的，所以和课本的会不太一样</p>
+
+<h4>by yxj</h4>
